@@ -27,6 +27,7 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run app.py
+# Wait for ~60 secs to load UI
 ```
 
 ## Example
