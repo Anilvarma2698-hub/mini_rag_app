@@ -1,0 +1,14 @@
+Machine Learning Basics
+
+Supervised Learning
+Supervised learning is a type of machine learning where the model is trained on labeled data.
+This means that each training example includes both the input features and the correct output.
+The goal is for the algorithm to learn a mapping from inputs to outputs and make predictions on new data.
+
+Unsupervised Learning
+Unsupervised learning involves training a model on data without labeled responses.
+The algorithm tries to learn the underlying structure of the data, such as grouping similar examples together.
+
+Reinforcement Learning
+Reinforcement learning is a type of learning where an agent learns to make decisions by taking actions in an environment
+to maximize some notion of cumulative reward. It involves exploration and exploitation.
