@@ -17,7 +17,7 @@ This is a simple Retrieval-Augmented Generation (RAG) system that allows you to 
 ## Installation
 
 ```bash
-git checkout  feature/interview_project
+git checkout interview_project
 python -m venv .venv
 .\.venv\Scripts\activate
 pip install -r requirements.txt
